@@ -1,6 +1,5 @@
 __author__ = 'Gina Pappagallo (gmp5vb)'
 
-def greetings(msg):
-    print(str(msg))
+from helper import greetings
 
 greetings("hello")
