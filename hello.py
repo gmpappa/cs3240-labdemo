@@ -1,3 +1,6 @@
 __author__ = 'Gina Pappagallo (gmp5vb)'
 
-print("Hello")
+def greetings(msg):
+    print(str(msg))
+
+greetings("hello")
